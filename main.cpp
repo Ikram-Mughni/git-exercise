@@ -5,10 +5,13 @@ using namespace std;
 int main()
 {
     cout << "CETAK SEGITIGA\n";
+    cout << "GAGAL";
     int i = 0;
-    while(i < 5) {
+    while (i < 5)
+    {
         int j = 0;
-        while (j < i) {
+        while (j < i)
+        {
             cout << "* ";
             j++;
         }
