@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout << "CETAK SEGITIGA\n";
-    cout << "GAGAL";
+    cout << "GAGA kaf;sldfkjlasjdflajsdfljasdfL";
     int i = 0;
     while (i < 5)
     {
