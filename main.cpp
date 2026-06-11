@@ -17,4 +17,8 @@ int main()
         }
         cout << endl;
     }
+
+    while (i == 0)
+    {
+    }
 }
