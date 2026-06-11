@@ -21,4 +21,8 @@ int main()
     while (i == 0)
     {
     }
+
+    for (int f = 0; f < 5; f++)
+    {
+    }
 }
